@@ -1,7 +1,7 @@
 # PervoTransformer: AI-Driven Optimization of Perovskite Solar Cells
 
 
-**PervoTransformer** is a multi-model AI framework for the design and optimization of perovskite solar cells (PSCs). It combines **RoBERTa** for predictive modeling of power conversion efficiency (PCE) and **GPT-2** for generative design of new solar cell architectures.
+**PervoTransformer** is a multi-model AI framework for the design and optimization of perovskite solar cells (PSCs). It combines **RoBERTa** for predictive modeling of power conversion efficiency (PCE) and **GPT-2** for generative design of new solar cell architectures.The framework also leverages MACE machine learning potentials for accurate force and energy predictions of Cs-Sn based perovskites. Using this approach, new high-PCE candidate structures were generated, enabling accelerated exploration and optimization of solar cell materials.
 ![PervoTransformer Architecture](Pervotransformer_final_architecture.png)
 
 ---
@@ -42,7 +42,7 @@
 - **Description:** Distribution of predicted PCE for generated perovskite structures. Highlighted high-PCE candidates suitable for experimental validation.
 
 ### 3️⃣ MACE Potential Validation
-![MACE Forces and Energy](training_vs_validation_loss_stage2.png)
+    ![MACE Forces and Energy](training_vs_validation_loss_stage2.png)
 
     <p align="center">
       <img src="training_vs_validation_energy.png" alt="PCE Prediction Plot" width="400"/>
