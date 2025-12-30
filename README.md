@@ -18,7 +18,7 @@
 ---
 
 ## 📂 Repository Structure
-
+In future repository will inlcude follwoing:
 - `data/`: Original and processed datasets.
 - `notebooks/`: Jupyter notebooks for exploration, training, and generation.
 - `models/`: Fine-tuned RoBERTa and GPT-2 models.
