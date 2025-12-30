@@ -30,7 +30,11 @@
 ## 📈 Key Results
 
 ### 1️⃣ PCE Prediction Performance
-![PCE Prediction vs Actual](./results/plots/pce_prediction_vs_actual.png)
+<p align="center">
+  <img src="best_true_vs_pred_Test.png" alt="PCE Prediction Plot" width="400"/>
+  <img src="best_true_vs_pred_Validation.png" alt="Generated Structures Histogram" width="400"/>
+</p>
+
 - **Description:** Predicted vs actual PCE for validation devices. Shows strong correlation, confirming model’s predictive accuracy.
 
 ### 2️⃣ GPT-2 Generated Structures
