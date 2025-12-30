@@ -42,7 +42,12 @@
 - **Description:** Distribution of predicted PCE for generated perovskite structures. Highlighted high-PCE candidates suitable for experimental validation.
 
 ### 3️⃣ MACE Potential Validation
-![MACE Forces and Energy](./results/plots/mace_forces_energy.png)
+![MACE Forces and Energy]("training_vs_validation_loss_stage2.png")
+
+<p align="center">
+  <img src="training_vs_validation_energy.png" alt="PCE Prediction Plot" width="400"/>
+  <img src="training_vs_validation_forces.png" alt="Generated Structures Histogram" width="400"/>
+</p>
 - **Description:** Comparison between predicted and reference forces/energies for Cs-Sn based perovskites. Confirms MACE potential accuracy.
 
 ---
