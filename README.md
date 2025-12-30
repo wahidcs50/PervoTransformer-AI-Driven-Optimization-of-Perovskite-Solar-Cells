@@ -41,6 +41,7 @@
 <p align="center">
   <img src="training_loss.png" alt="GPT-2 Fine-tuning Loss" width="500"/>
 </p>
+
 - **Description:** GPT-2 training loss during fine-tuning. Shows model convergence for generating perovskite structures.
 
 ### 3️⃣ MACE Potential Validation
