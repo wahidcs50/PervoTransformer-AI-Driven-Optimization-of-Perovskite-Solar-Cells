@@ -38,16 +38,16 @@
 - **Description:** Predicted vs actual PCE for validation devices. Shows strong correlation, confirming model’s predictive accuracy.
 
 ### 2️⃣ GPT-2 Generated Structures
-![Generated Structures Histogram](./results/plots/generated_structures_histogram.png)
+![GPT-2 Finetuining loss](PervoGPT\training_loss.png)
 - **Description:** Distribution of predicted PCE for generated perovskite structures. Highlighted high-PCE candidates suitable for experimental validation.
 
 ### 3️⃣ MACE Potential Validation
-![MACE Forces and Energy]("training_vs_validation_loss_stage2.png")
+![MACE Forces and Energy](training_vs_validation_loss_stage2.png)
 
-<p align="center">
-  <img src="training_vs_validation_energy.png" alt="PCE Prediction Plot" width="400"/>
-  <img src="training_vs_validation_forces.png" alt="Generated Structures Histogram" width="400"/>
-</p>
+    <p align="center">
+      <img src="training_vs_validation_energy.png" alt="PCE Prediction Plot" width="400"/>
+      <img src="training_vs_validation_forces.png" alt="Generated Structures Histogram" width="400"/>
+    </p>
 - **Description:** Comparison between predicted and reference forces/energies for Cs-Sn based perovskites. Confirms MACE potential accuracy.
 
 ---
