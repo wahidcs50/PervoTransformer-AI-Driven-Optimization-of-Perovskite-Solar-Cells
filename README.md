@@ -1,6 +1,5 @@
 # PervoTransformer: AI-Driven Optimization of Perovskite Solar Cells
 
-![Project Logo](./results/plots/pce_prediction_vs_actual.png)
 
 **PervoTransformer** is a multi-model AI framework for the design and optimization of perovskite solar cells (PSCs). It combines **RoBERTa** for predictive modeling of power conversion efficiency (PCE) and **GPT-2** for generative design of new solar cell architectures.
 
